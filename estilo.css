@@ -1,0 +1,21 @@
+.logo{
+    width: 170px;
+    margin-top: 2px;
+    margin-left: 40px;
+    
+}
+.div-principal{
+    padding: 18px;
+}
+.links{
+    float: right; 
+    padding: 10px 20px;
+    font-size: 14px;
+
+}
+a{
+    padding: 20px;
+    color: #d32f2f;
+    font-size: 15px;
+    font-family: system, -apple-system, BlinkMacSystemFont, ".SFNSText-Regular", "San Francisco", Roboto, "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+}
